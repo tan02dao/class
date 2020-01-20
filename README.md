@@ -9,6 +9,8 @@
    * [Email](mailto:kai.germaschewski@unh.edu) for 1-on-1 help, or to
      set up a time to meet.
 * **Github URL** for this class: https://github.com/unh-hpc-2020/class
+* **Slack URL** https://unhhpc2020.slack.com/ (use the "if you have an
+  @unh.edu email address" signup link)
 
 ## Course Summary
 
