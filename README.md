@@ -28,7 +28,8 @@ The three main focus areas are "barely sufficient software
 engineering", basics of high-performance and parallel programming, and
 visualization. Special topics may include a modern HPC language like
 [Julia](http://julialang.org), specific hardware architectures,
-automatic code generation and performance tuning.
+automatic code generation and performance tuning, or maybe some
+machine learning.
 
 The section on software engineering will introduce basic tools and
 methods for writing and maintaining portable code, selecting the right
