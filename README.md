@@ -58,7 +58,7 @@ There is no required textbook for this class. Occasional readings assignments
 will be posted and particpants are expected to finish those before
 class time.
 
-Here are ome books that might be useful:
+Here are some books that might be useful:
 
  * Writing Scientific Software -- A guide to good style, by Suely
    Oliveira \& David Stewart, Cambridge, 2006
