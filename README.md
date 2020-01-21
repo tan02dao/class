@@ -4,13 +4,13 @@
 * **Website:** The class notes etc. will go on the [Course Wiki Page](https://github.com/unh-hpc-2020/class/wiki)
 * **Instructor:** Kai Germaschewski, [kai.germaschewski@unh.edu](mailto:kai.germaschewski@unh.edu), Morse 245E
 * **Office Hourse:** Morse 245E, Tue 10-11am, Wed 2-3pm
-* **Need help?**
-   * Look through and create [issues](https://github.com/unh-hpc-2020/class/issues).
-   * [Email](mailto:kai.germaschewski@unh.edu) for 1-on-1 help, or to
-     set up a time to meet.
-* **Github URL** for this class: https://github.com/unh-hpc-2020/class
 * **Slack URL** https://unhhpc2020.slack.com/ (use the "if you have an
   @unh.edu email address" signup link)
+* **Need help?**
+   * Ask on [Slack](https://unhhpc2020.slack.com/)
+   * Look through and create [issues](https://github.com/unh-hpc-2020/class/issues).
+   * [Email](mailto:kai.germaschewski@unh.edu) me for 1-on-1 help, or to
+     set up a time to meet.
 
 ## Course Summary
 
@@ -43,8 +43,9 @@ parallelism at multiple levels. Basic parallel programming models will
 be introduced, with a focus on learning how to use MPI.
 
 The last section will provide an overview of some of the visualization
-packages available, with a focus on getting to know python/pylab and
-visit.
+packages available, with a focus on getting to know python/matplotlib
+and Visit. Other topics are possible, like GPUs or data science /
+machine learning.
 
 ## Prerequisites
 
