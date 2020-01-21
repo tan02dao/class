@@ -49,7 +49,7 @@ visit.
 ## Prerequisites
 
 Enrollment in a CEPS graduate program, MATH 753,
-working knowledge of a programming language (C or Fortran), or by
+working knowledge of a programming language (C, C++ or Fortran), or by
 permission of instructor.
 
 ## Reading
